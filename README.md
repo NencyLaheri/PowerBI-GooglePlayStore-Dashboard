@@ -1,4 +1,3 @@
-📊 Power BI Google Play Store Dashboard
 
 🚀 Overview
 This project provides an interactive Excel dashboard analyzing data from the Google Play Store. It helps visualize key insights such as app ratings, reviews, installs, and category performance.
